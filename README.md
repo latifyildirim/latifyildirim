@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning AWS and Devops Tools
 - 🥅 2022 Goals: Learning and traveling more
 - ⚡ Fun fact: I love traveling, swimming 
-- 
+
 <!---
 ### Connect with me:
  
