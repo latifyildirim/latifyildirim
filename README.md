@@ -2,7 +2,7 @@
 
 ## I'm a System Engineer
 
-- 👋 Hi, I’m Latif
+
 - 👀 I’m interested in DevOps and Software Engineering
 - 🌱 I’m currently learning AWS and Devops Tools
 - 🥅 2022 Goals: Learning and traveling more
