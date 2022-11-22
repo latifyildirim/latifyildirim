@@ -7,13 +7,12 @@
 - 🌱 I’m currently learning AWS and Devops Tools
 - 🥅 2022 Goals: Learning and traveling more
 - ⚡ Fun fact: I love traveling, swimming 
-
+- 
+<!---
 ### Connect with me:
  
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yildirim-latif/)
 [<img align="left" alt="MAIL" width="30px" src="./img/gmail.svg" style="padding-right:10px;" />](mailto:lyildirim.3017@gmail.com)
-
-<!---
 [<img align="left" alt="GETIN" width="30px" src="./img/it.jpg" style="padding-right:10px;" />](https://www.get-in-it.de/profil/lochctVRUeMZaPAsWwkmiaB6Faf9BDjI)
 [<img align="left" alt="XINK" width="20px" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" style="padding-right:10px;" />](https://www.xing.com/profile/MahmutEdip_Negiz2)
 
