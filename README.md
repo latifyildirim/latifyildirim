@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yildirimlatif/)
+[<[website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yildirimlatif/)
 [<img align="left" alt="MAIL" width="30px" src="./img/gmail.svg" style="padding-right:10px;" />](mailto:lyildirim.3017@gmail.com)
 
 <!---
