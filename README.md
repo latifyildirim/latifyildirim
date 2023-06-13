@@ -1,9 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Latif
+Hi My name is Latif
 =====================================================================================================================================
 
-
 ### Skills
-
 
 <p align="left">
 <a href="https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php" target="_blank" rel="noreferrer"><img src="https://github.com/bregman-arie/devops-exercises/blob/master/images/bash.png" width="36" height="36" alt="Bash" /></a>
